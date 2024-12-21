@@ -1,0 +1,1 @@
+In this exercise I created a main page which links to 3 different recipes.
